@@ -1,0 +1,1 @@
+This is the Shell permissions project, to understand hoe permissions works on shell, to modify files and change user and permissions for the files.
