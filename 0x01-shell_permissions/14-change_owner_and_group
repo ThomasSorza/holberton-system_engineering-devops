@@ -1,2 +1,2 @@
 #!/bin/bash
-pts chown holberton betty
+chown -R betty:holberton .
