@@ -1,0 +1,1 @@
+In every single file of this Shell, I/O Redirections and filters directory are scripts that execute different commands.
